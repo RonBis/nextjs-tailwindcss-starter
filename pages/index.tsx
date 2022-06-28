@@ -5,8 +5,8 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Vider</title>
-        <meta name="description" content="Vider, a video chat application" />
+        <title>NextJSApp</title>
+        <meta name="description" content="" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
