@@ -9,6 +9,9 @@
     ".vscode": true,
     "tsconfig.json": true,
     "postcss.config.js": true,
-    ".next": true
+    ".next": true,
+    ".swc": true,
+    "public\\vercel.svg": true,
+    ".prettierrc": true
   }
 }
